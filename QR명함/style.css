@@ -1,0 +1,25 @@
+body {
+    background-image: url('./drahnw.png'); /* 배경 이미지 파일 경로를 지정합니다. */
+    background-size: contain; /* 이미지를 화면에 꽉 채우도록 설정합니다. */
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-position: center;
+    background-color: white;
+
+}
+
+.list > a{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Crimson Text', serif;
+    font-size: 2.2rem;
+    font-weight: bold;
+    color:rgb(9, 2, 65);
+}
+.list{
+    text-align: right;
+    margin-top: 9rem;
+    margin-right: 2rem;
+}
+
+
+
